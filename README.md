@@ -5,7 +5,7 @@ This addon opens a popup window, which includes the target's player name as high
 
 Installation:
 
-Just download the newest release from GitHub and extract the folder in the zip file into your World of Warcraft Addons folder.
+Just download the latest release from GitHub and extract the folder in the zip file into your World of Warcraft Addons folder.
 
 Usage:
 

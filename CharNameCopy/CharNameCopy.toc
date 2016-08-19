@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: CharNameCopy
+## Version: 1.00
+## Author: MBODM
+## Notes: Used to copy the character name of a target into the clipboard
+
+CharNameCopy.lua

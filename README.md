@@ -6,6 +6,8 @@ This addon opens a popup window, which includes the target's player name as high
 Usage is very simple:
 
 /cnc show (to show the window, with your target's name)
+
 /cnc hide (to hide the window, i.e. when using a macro)
+
 
 Have fun.

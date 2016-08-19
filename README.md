@@ -9,4 +9,8 @@ To show the window (with your target's name) -> /cnc show
 
 To hide the window (i.e. when using a macro) -> /cnc hide
 
+Installation is even more easy:
+
+Just download the newest release from GitHub and extract the folder in the zip file into your World of Warcraft Addons folder.
+
 Have fun.
